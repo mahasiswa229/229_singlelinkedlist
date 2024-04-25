@@ -85,6 +85,11 @@ START  =  current->next;
 return true; 
 }
 
+bool listEmpty() 
+{
+     
+}
+
 int main()
 {
     
