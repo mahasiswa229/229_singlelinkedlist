@@ -73,7 +73,10 @@ return false;
 } 
 }
 
+bool deleteNode(int nim)   
+{ 
 
+}
 
 int main()
 {
