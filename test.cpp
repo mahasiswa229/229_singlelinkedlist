@@ -113,6 +113,10 @@ void traverse()
     }
 }
 
+void searchData() {
+
+}
+
 int main()
 {
     
