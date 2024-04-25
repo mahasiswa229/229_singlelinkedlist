@@ -8,6 +8,13 @@ struct Node
     Node* next; 
 };
 Node* START = NULL;
+
+void addNode() 
+{
+    
+}
+
+
 int main()
 {
     
