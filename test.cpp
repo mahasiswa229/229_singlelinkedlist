@@ -49,6 +49,10 @@ void addNode()
          previous->next   =   nodeBaru;
 }
 
+bool serachNodeb (int nim,   Node*   current,   Node   previous)   
+{
+
+}
 
 int main()
 {
